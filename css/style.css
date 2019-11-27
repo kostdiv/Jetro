@@ -7,6 +7,10 @@ body{
 .header{
    background-color: green;
 }
+
 .footer{
 	background-color: yellow;
+}
+.section{
+   background-color: goldenrod;
 }
